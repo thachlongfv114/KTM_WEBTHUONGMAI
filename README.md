@@ -39,3 +39,4 @@ Có danh mục của chủ đề..Thể Thao, Giải Trí, Pháp Luật<br/>
 <strong>Cuối cùng là trang tác giả:</strong>
 <img src="https://raw.githubusercontent.com/thachlongfv114/KTM_WEBTHUONGMAI/master/trangtacgia.PNG"/><br/><br/>
 <strong>là cơ sở dữ liệu được liên kết với SQL</strong><br/>
+Đây là tất cả về trang web báo chí..Cảm ơn đã xem.
